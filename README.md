@@ -40,11 +40,13 @@ Developed by: RegisterNumber:*/
 
 **RTL realization**
 <img width="1920" height="1080" alt="EXP2 clock diagram" src="https://github.com/user-attachments/assets/7db832cb-c580-4c46-abdf-a0994e778dfa" />
+<img width="1920" height="1080" alt="EXP2_II clock diagram" src="https://github.com/user-attachments/assets/9fcb6b08-38d4-4274-a9bc-8a41d7e1e05b" />
 
 **Output:**
 
 **RTL**
   <img width="1920" height="1080" alt="EXP2" src="https://github.com/user-attachments/assets/008ffc3e-0bea-4904-b399-bf084aca9ff2" />
+<img width="1920" height="1080" alt="EXP2_II" src="https://github.com/user-attachments/assets/6f08d952-13cf-41ed-b659-0f505c24406a" />
 
 **Timing Diagram**
 
